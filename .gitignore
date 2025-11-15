@@ -36,8 +36,7 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # dotenv environment variable files
-# .env should be commented but it will be uncommented so other developers can access this key!
-# .env
+.env
 .env.development.local
 .env.test.local
 .env.production.local
